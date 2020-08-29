@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GUIA1</string>
+
+    <string name="titulo">Guia 1 de Laboratorio</string>
+    <string name="Calculadora">Calculadora</string>
+    <string name="Login">Login</string>
+    <string name="Enviar">Entrar</string>
+    <string name="Bien">Bienvenido !</string>
+    <string name="pass">Ingresar Contraseña</string>
+    <string name="usuario">Ingresar Usuario</string>
+
+
+    <string name="AC">AC</string>
+    <string name="DEL">DEL</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="por">*</string>
+    <string name="divi">/</string>
+    <string name="igual">=</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="cero">0</string>
+
+</resources>
