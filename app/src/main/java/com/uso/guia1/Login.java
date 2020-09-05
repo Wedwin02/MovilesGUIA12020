@@ -27,8 +27,8 @@ public class Login extends AppCompatActivity {
     }
 
     public void Enviar_onClick(View v){
-        u = usuario.getText().toString();
-        p = pass.getText().toString();
+        u = usuario.getText().toString().trim();
+        p = pass.getText().toString().trim();
         validar(u,p);
     }
 
